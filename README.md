@@ -16,7 +16,7 @@
    
 ### Примеры работ
 
-- Python, PostgreSQL, работа с API. [Командныйы проект: ВКбот для знакомств](https://github.com/NedorezovNS/command_project)
+- Python, PostgreSQL, работа с API. [Командный проект: ВКбот для знакомств](https://github.com/NedorezovNS/command_project)
 
 - Django. [Домашние работы по курсу Django](https://github.com/NedorezovNS/Django_hw)
    
