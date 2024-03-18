@@ -29,3 +29,7 @@
 - GIT https://github.com/NedorezovNS/NedorezovNS/blob/main/git.pdf
 
 - API https://github.com/NedorezovNS/NedorezovNS/blob/main/api.pdf
+
+
+### Связаться со мной
+[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
