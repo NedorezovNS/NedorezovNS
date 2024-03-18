@@ -7,8 +7,8 @@
 [<image width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"/>](https://www.djangoproject.com/)
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/>](https://www.postgresql.org)
 [<image width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>](https://git-scm.com/)
-[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://www.w3.org/html/)
-[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3schools.com/css/)
+[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>](https://html.spec.whatwg.org/multipage/)
+[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>](https://www.w3.org/Style/CSS/)
    
 ### Для работы использую
 [<image width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"/>](https://www.jetbrains.com/ru-ru/pycharm/)
