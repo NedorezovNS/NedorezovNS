@@ -1,6 +1,6 @@
 ### Привет!
 
-Я <b>Никита Недорезов</b>, начинающий Fullstack разработчик на Python.
+Я <b>Никита Недорезов</b>, начинающий Fullstack-разработчик на Python.
 
 ### Мой стек
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
