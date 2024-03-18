@@ -32,4 +32,4 @@
 
 
 ### Связаться со мной
-[<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
+[<image width="40px" src="https://github.com/NedorezovNS/NedorezovNS/blob/main/Telegram.png"/>](https://t.me/ns_nedorezov)
