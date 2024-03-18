@@ -2,6 +2,8 @@
 
 Я <b>Никита Недорезов</b>, начинающий Fullstack-разработчик на Python.
 
+Сейчас изучаю **Python, Django, HTML, CSS**.
+
 ### Мой стек
 [<image width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>](https://www.python.org)
 [<image width="40px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"/>](https://www.djangoproject.com/)
